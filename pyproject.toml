@@ -33,7 +33,7 @@ dependencies = [
     "traitlets>=5.0",
     "uv>=0.4",
     "nbconvert>=7.0",
-    "pyzmq>=27.1.0",  # if marimo is provided, we additionally need this.
+    "pyzmq>=27.0.1",  # if marimo is provided, we additionally need this.
 ]
 
 [project.optional-dependencies]
